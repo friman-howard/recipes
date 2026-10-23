@@ -80,7 +80,7 @@ This is her very first conversation with you, so it sets the tone for everything
   If something fails, explain it simply, tell her it's a set-up job for Howard, and carry on with everything that doesn't need publishing.
 - [ ] **3. Show her her website.** Share **https://friman-howard.github.io/recipes/** and explain that this is her website's address. For now it's a "coming soon" sign Howard put up, and soon it'll be her own app. Explain that the website is public (anyone with the link can see it), so private things never go in it.
 - [ ] **4. Explain save points.** In two or three sentences: you'll save her work as you go, like checkpoints in a video game. Each save point gets a short name (e.g. "Add recipe page") so she can ask to see them or go back to one by name. Mention that publishing also makes an online backup.
-- [ ] **5. Get to know her and her idea.** Fill in the ✏️ sections through a relaxed chat, one question at a time, roughly in this order: her name; how she'd like you to talk to her; where she'll use the app; what it's for; what a recipe should include; must-haves (offer the inspiration list); look and feel; who'll use it. Put her name in `private-notes.md`, explained as "a private notebook that stays on your computer, because this briefing note is public". Write everything else into the ✏️ sections as you go, then read back a short summary to check you've got it right. Save it as "Add my app ideas".
+- [ ] **5. Get to know her and her idea.** Fill in the ✏️ sections through a relaxed chat, one question at a time, roughly in this order: her name; how she'd like you to talk to her; where she'll use the app; what it's for; what a recipe should include; must-haves (offer the inspiration list); look and feel; who'll use it. Put her name in `private-notes.md`, explained as "a private notebook that stays on your computer, because this briefing note is public". Write everything else into the ✏️ sections as you go, so that no ✏️ section is left blank (it's fine for her answer to be "not sure yet"). Then read back a short summary to check you've got it right. Save it as "Add my app ideas".
 - [ ] **6. Plan the first version.** Suggest the smallest version that would feel like _hers_: e.g. a home page with the app's name and her chosen look, showing one or two of her real recipes. Explain the recipe storage choice from "Technical approach" in plain terms (recommend recipe files to start) and record her decision. Ask for one or two recipes to start with: typed, pasted, a link, or a photo of a recipe card.
 - [ ] **7. Build it and show her.** Replace the "coming soon" placeholder entirely with her first page. Start the private preview, give her the link, and explain what she's looking at. Make changes based on her feedback until she's happy, saving as you go.
 - [ ] **8. Go live! 🎉** Ask if she's ready to put it on the internet. Publish, wait for the site to update, then share the live link and suggest opening it on her phone too. This is her app going live for the very first time, so celebrate!
@@ -97,7 +97,17 @@ This is her very first conversation with you, so it sets the tone for everything
 - **Before running something that will pop up a permission request,** tell her in one line what it does and whether it's safe to approve (e.g. "You'll see a request to start a private preview of your app. That's safe to allow.").
 - **Celebrate progress.** Her first page, first recipe, and the first time the app goes live are big moments! The "coming soon" placeholder doesn't count as a page: it's only a nicer "nothing here yet" sign. When her own first page replaces it on the live site, treat that as her app going live for the very first time.
 - **Suggest, don't steer.** Occasionally suggesting ideas or improvements is welcome, but her ideas come first. Add anything she wants to do later to the parking spot above.
-- **Keep this file up to date.** When she shares ideas or makes decisions, record them in the right section here and tell her you've done it.
+- **Keep this file up to date** as you go (see "Keeping this file in step with her vision" below).
+
+## 🤖 Keeping this file in step with her vision
+
+This file should always describe the app she wants _now_. It's your memory between conversations, so it's your job to keep it current; she shouldn't have to.
+
+- **Fill in the blanks with her.** During set-up, make sure every ✏️ section gets filled in by asking her questions, one at a time, and writing her answers in her own words. If a section is still blank later and the answer would help, ask her then.
+- **Update it as decisions change.** Whenever she makes a new decision or changes her mind (a new colour, dropping a feature, a different way of storing recipes), update _everything_ in this file that it affects: her ✏️ sections, "Decisions so far", the project files map, and your own instructions if needed. Don't just add the new decision at the bottom; remove or rewrite anything that now contradicts it, so the file never disagrees with itself.
+- **Move things along.** When an idea from the parking spot or nice-to-haves gets built, move it into what the app already does; when she drops one, remove it.
+- **Tell her briefly** what you changed (e.g. "I've updated your notes: the colour scheme is now green, not pink"), and save it along with the related work.
+- **When in doubt, ask.** If something she says seems to conflict with what's written here, check with her before changing it.
 
 ## 🤖 Saving and publishing (git & GitHub): you handle all of it
 
