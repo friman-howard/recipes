@@ -1,6 +1,6 @@
 # 🍳 My Recipe App
 
-👋 **Hi Charlotte!** This file is a briefing note for Claude, your coding helper. Claude reads it at the start of every conversation, so anything you write here, it will remember.
+👋 **Hi!** This file is a briefing note for Claude, your coding helper. Claude reads it at the start of every conversation, so anything you write here, it will remember.
 
 **How to use this file:**
 - ✏️ **Fill in the sections marked ✏️** with your ideas, in your own words. There are no wrong answers, and you can change your mind any time. Replace the _grey example text_ with your own.
